@@ -1,4 +1,4 @@
-# 🚨 LiquiditySurgeTrap (Drosera Proof-of-Concept)
+# 🚨 LiquiditySurgeTrap (Drosera Proof of Concept)
 
 ## 💡 Overview
 
@@ -78,7 +78,3 @@ forge test --match-contract LiquiditySurgeTrap
 ```
 
 This command runs local tests to verify that the `shouldRespond()` function correctly flags a surge when the threshold is exceeded and remains silent when it is not.
-
------
-
-Would you like assistance in integrating this trap with a specific DEX (like Uniswap V2/V3) or customizing the alert threshold?
